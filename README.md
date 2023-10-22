@@ -8,4 +8,6 @@
 - 🔧 R&D Engineer at TUMCREATE and the Singapore-MIT Alliance for Research and Technology (SMART) Centre.
 - 💻 Software Engineer at Cognizant.
 
+🌐 Check out my [personal website](https://wang-boyu.github.io) for more about my work and projects!
+
 Feel free to explore my repositories and reach out for collaborations or discussions!
