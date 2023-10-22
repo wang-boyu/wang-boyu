@@ -1,3 +1,11 @@
-<img alt="Boyu's GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=wang-boyu&hide_title=false&theme=solarized-light&show_icons=true&count_private=true&hide_border=true"><img alt="Boyu's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=wang-boyu&theme=solarized-light&hide_border=true" width="48%">
+👋 Hi there!
 
-![](https://hit.yhype.me/github/profile?user_id=10785873)
+🎓 I'm currently pursuing my PhD in Geography at the University at Buffalo, under the guidance of [Prof. Andrew Crooks](https://www.gisagents.org/p/about-gis-and-agent-based-modeling.html). My academic journey revolves around agent-based modeling, geographic information science, machine learning, and urban simulation. I hold an MSc and BSc in Physics from the National University of Singapore.
+
+🔍 Before diving into the world of research, I honed my skills in the industry:
+
+- 📊 Data Scientist at Hewlett Packard Enterprise's APAC Innovation Center in Singapore.
+- 🔧 R&D Engineer at TUMCREATE and the Singapore-MIT Alliance for Research and Technology (SMART) Centre.
+- 💻 Software Engineer at Cognizant.
+
+Feel free to explore my repositories and reach out for collaborations or discussions!
