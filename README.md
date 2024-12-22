@@ -11,3 +11,4 @@
 🌐 Check out my [personal website](https://wang-boyu.github.io) for more about my work and projects!
 
 Feel free to explore my repositories and reach out for collaborations or discussions!
+![](https://hit.yhype.me/github/profile?account_id=10785873)
